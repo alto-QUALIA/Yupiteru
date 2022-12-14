@@ -41,10 +41,11 @@
 
 　保護フィルムに「ハガス」表示がありますので取り付ける直前に剥がしてください。
 
-　紛失・汚損などで使用ができなくなってしまった場合、スペアパーツダイレクトで購入することができます。 [🔗Lei04スペアパーツ](https://direct.yupiteru.co.jp/item_list.html?category_cd=LEI04)
+　紛失・汚損などで使用ができなくなってしまった場合、スペアパーツダイレクトで購入することができます。
  
 ### ❕ リンク
  
+- [Lei04スペアパーツ🔗](https://direct.yupiteru.co.jp/item_list.html?category_cd=LEI04)
 - [Yupiteruダイレクト🔗](https://direct.yupiteru.co.jp/)
 - [霧島レイ公式サイト🔗](http://lei-kirishima.jp/)
 - [羽衣6総合サイト🔗](https://hagoromo6.jp/)
